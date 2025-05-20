@@ -8,6 +8,6 @@
 
 * **I've tried to make this apps supports all the possible android versions. If you can't use any, then inform me in the Telegram channel, so I can make it support for that android version.**
 
-### **Check The Releses for all the `MODS`**
+### **Check Releses for all the `MODS`✌️**
 
 [![Telegram Channel](https://img.shields.io/badge/-Telegram-red?color=white&logo=telegram&logoColor=blue)](https://t.me/TechGeekZ_chat)
